@@ -21,7 +21,7 @@
 }
 .peopleColumn-1wMU14, .chatContent-3KubbW:not(.container-3XgAHv *), .pageWrapper-2PwDoS, .scroller-29cQFV, .stageSection-3mAD8V {
   border-radius: var(--border-radius-1);
-  margin-left: 10px;
+  margin-inline: 10px;
   background-color: var(--background-primary) !important;
 }
 .scroller-WSmht3 {
@@ -1912,4 +1912,17 @@ body:not(.powercord) .panels-3wFtMD::after {
 }
 .bf-toolbar .format:active {
   background: var(--background-modifier-active) !important;
+}
+.userPanelInnerThemed-3YO1BB {
+    background: -webkit-gradient(linear,left top,left bottom,from(var(--profile-gradient-primary-color)),to(var(--profile-gradient-secondary-color)));
+    background: linear-gradient(var(--profile-gradient-primary-color),var(--profile-gradient-secondary-color !important
+    border-radius: var(--border-radius-1); !important
+}
+.userProfileOuterUnthemed-11rPfA {
+    background-color: #0000;
+}
+.profilePanel-2VBkh8 {
+    position: relative;
+    width: 340px;
+    margin-bottom: 10px;
 }
