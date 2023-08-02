@@ -1915,8 +1915,8 @@ body:not(.powercord) .panels-3wFtMD::after {
 }
 .userPanelInnerThemed-3YO1BB {
     background: -webkit-gradient(linear,left top,left bottom,from(var(--profile-gradient-primary-color)),to(var(--profile-gradient-secondary-color)));
-    background: linear-gradient(var(--profile-gradient-primary-color),var(--profile-gradient-secondary-color !important
-    border-radius: var(--border-radius-1); !important
+    background: linear-gradient(var(--profile-gradient-primary-color),var(--profile-gradient-secondary-color !important;
+    border-radius: var(--border-radius-1); !important;
 }
 .userProfileOuterUnthemed-11rPfA {
     background-color: #0000;
