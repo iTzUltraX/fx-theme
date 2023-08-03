@@ -1926,3 +1926,17 @@ body:not(.powercord) .panels-3wFtMD::after {
     width: 340px;
     margin-bottom: 10px;
 } */
+
+.link-1_kTxV {
+    cursor: pointer;
+    position: relative;
+    padding: 6px 8px;
+    border-radius: var(--radius-md);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
