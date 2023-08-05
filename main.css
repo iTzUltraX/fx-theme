@@ -2000,3 +2000,10 @@ body:not(.powercord) .panels-3wFtMD::after {
     color: var(--channels-default);
     margin: 3px;
 }
+
+.side-1lrxIh .item-2GWPIy {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-bottom: 2px;
+    border-radius: 14px;
+}
