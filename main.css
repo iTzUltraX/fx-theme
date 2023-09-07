@@ -2007,3 +2007,8 @@ body:not(.powercord) .panels-3wFtMD::after {
     margin-bottom: 2px;
     border-radius: 14px;
 }
+
+.replying-eZ7p5z:before {
+    background-color: var(--accent-color);
+    border-radius: 73px 0px 0px 101px;
+}
