@@ -726,7 +726,7 @@ svg.slider-32CRPX svg, .bd-switch-slider>svg {
   top: 16px;
 }
 .avatar-3QF_VA {
-  top: -156px;
+  top: unset;
 }
 .headerTop-3GPUSF {
   display: flex;
@@ -763,8 +763,8 @@ svg.slider-32CRPX svg, .bd-switch-slider>svg {
   border: 1px solid var(--border-color);
 }
 .root-8LYsGj, .profileBanner-1owKI5, .profileBannerPremium-KD60EB, .bannerOverlayProfile-31VOgt {
-  width: 650px;
-  max-width: none;
+  width: unset;
+  max-width: unser;
 }
 .root-8LYsGj .tabBar-2hXqzU {
   justify-content: space-between;
@@ -776,7 +776,7 @@ svg.slider-32CRPX svg, .bd-switch-slider>svg {
   margin-right: 100px;
 }
 .profileBanner-1owKI5 {
-  height: 176px;
+  height: unset;
 }
 .popoutBanner-3cqRD9, .bannerNormal-2jf-df, .bannerUploaderInnerSquare-1ddxpx {
   height: 122px;
@@ -797,7 +797,7 @@ svg.slider-32CRPX svg, .bd-switch-slider>svg {
   padding: 8px 8px 0 16px;
 }
 .header-S26rhB, .customStatusActivity-WKWGD- {
-  margin-left: 8px;
+  margin-left: 0;
 }
 .listScroller-entkMk {
   margin: 0 12px 12px 12px;
