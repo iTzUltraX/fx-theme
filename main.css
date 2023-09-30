@@ -2012,3 +2012,14 @@ body:not(.powercord) .panels-3wFtMD::after {
     background-color: var(--accent-color);
     border-radius: 73px 0px 0px 101px;
 }
+/*---------------------------------------- fixing profile modal ----------------------------------------*/
+.bannerSVGWrapper-2CLfzN { /*fixing banner height, so pfp can fit inside it*/
+    z-index: 0;
+    contain: paint;
+    height: 11rem;
+}
+
+circle[cy="101"] { /*removal of pfp notch*/
+    display: none;
+}
+
