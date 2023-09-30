@@ -1,8 +1,8 @@
 {
-    "name": "Zelk",
+    "name": "fx",
     "version": "1.2.2",
     "license": "MIT",
-    "theme": "zelk.css",
-    "author": "schnensch",
+    "theme": "fx.css",
+    "author": "afwx",
     "description": "a smooth theme inspired by zorin"
 }
